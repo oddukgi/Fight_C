@@ -2,6 +2,8 @@
 Let's fight C code in hard part.
 This repo is about example code box.
 
+### Enviroment
+  Win 10 / Visual Studio 2015 Community 
 ### Index
 
 1. Pointer 
