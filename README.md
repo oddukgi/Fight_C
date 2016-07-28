@@ -16,8 +16,7 @@
    - pointer_type.cpp
    - pointer_const.cpp
    - const_pointer.cpp
-   - const_pointerto_const.cpp
-   - void_pointer.cpp
+   
      
 ### reference site
    https://dojang.io/course/view.php?id=2&section=43
