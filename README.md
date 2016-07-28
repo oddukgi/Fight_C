@@ -16,6 +16,8 @@
    - pointer_type.cpp
    - pointer_const.cpp
    - const_pointer.cpp
+   - const_pointerto_const.cpp
+   - void_pointer.cpp
    
      
 ### reference site
